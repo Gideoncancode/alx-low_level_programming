@@ -1,1 +1,1 @@
-C functons nested loops 
+C finctions nested loops 
